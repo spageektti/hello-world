@@ -4,5 +4,5 @@
 // Main function that is called when the program is run
 void main() {
   // Print the text "Hello World!" to the console
-  print('Hello World!');
+  print('Hello, world!');
 }
