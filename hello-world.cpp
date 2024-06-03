@@ -5,6 +5,6 @@
 
 // The main function, which is executed when you run the program
 int main() {
-    std::cout << "Hello World!"; // Print "Hello World!" to standard output (the console)
+    std::cout << "Hello, world!"; // Print "Hello World!" to standard output (the console)
     return 0; // End the program with a return code of 0 (indicating successful completion)
 }
